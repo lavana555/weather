@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/weather/static/css/main.0ae9d16f.chunk.css",
+    "main.js": "/weather/static/js/main.ca56fd38.chunk.js",
+    "main.js.map": "/weather/static/js/main.ca56fd38.chunk.js.map",
+    "runtime-main.js": "/weather/static/js/runtime-main.6859beea.js",
+    "runtime-main.js.map": "/weather/static/js/runtime-main.6859beea.js.map",
+    "static/js/2.95087aec.chunk.js": "/weather/static/js/2.95087aec.chunk.js",
+    "static/js/2.95087aec.chunk.js.map": "/weather/static/js/2.95087aec.chunk.js.map",
+    "index.html": "/weather/index.html",
+    "precache-manifest.d047cc8aa9cd64cfc98842376d746aeb.js": "/weather/precache-manifest.d047cc8aa9cd64cfc98842376d746aeb.js",
+    "service-worker.js": "/weather/service-worker.js",
+    "static/css/main.0ae9d16f.chunk.css.map": "/weather/static/css/main.0ae9d16f.chunk.css.map",
+    "static/js/2.95087aec.chunk.js.LICENSE.txt": "/weather/static/js/2.95087aec.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/weather/static/media/logo.5d5d9eef.svg",
+    "static/media/videoplayback.mp4": "/weather/static/media/videoplayback.aef9109e.mp4",
+    "static/media/Футаж. Магическая пыль. Footage..mp4": "/weather/static/media/Футаж. Магическая пыль. Footage..485afeba.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6859beea.js",
+    "static/js/2.95087aec.chunk.js",
+    "static/css/main.0ae9d16f.chunk.css",
+    "static/js/main.ca56fd38.chunk.js"
+  ]
+}

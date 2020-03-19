@@ -21,7 +21,7 @@ class App extends React.Component {
 
         let z = Number(this.places[id].zip)
         let c = this.places[id].countryCode.replace(/['"«»]/g, '')
-        axios.get(`http://api.openweathermap.org/data/2.5/weather?zip=${z},${c}&appid=3c93e9d5009f08a00a4ee49f25d37a2c`).then(res => {
+        axios.get(`https://api.openweathermap.org/data/2.5/weather?zip=${z},${c}&appid=3c93e9d5009f08a00a4ee49f25d37a2c`).then(res => {
             this.setState({
                 weatherData: res.data,
                 id: id
@@ -48,7 +48,7 @@ class App extends React.Component {
                          clickWeater={this.onclickWeather}/>
         ))
         return (
-            <div className="video">
+            <div className="video2">
                 <video src={video} autoPlay muted loop id="myVideo"/>
                 <div className="App">
 
